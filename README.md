@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IlyaKhart
 - 👀 I’m interested in data analysis
-- 💞️ I’m looking to collaborate on U
+- 🍀 looking to collaborate on U
 - 📫 How to reach me -> @IlyaKhart
 
 <!----
