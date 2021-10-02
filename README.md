@@ -4,7 +4,7 @@
 
 - 👀 I’m currently learning everything 🤣
 - 🔭 I'm looking to collaborate with other
-- 🎯 2021 goal: 
+- 🎯 2021-2022 goal: Create a flying bike 🚀
 - 🍭 Fun fact: I'm a big fun of jogging & music
 
 
