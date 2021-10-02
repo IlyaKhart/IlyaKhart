@@ -3,7 +3,7 @@
 ### I'm Husbant, Father, Marketer and Analyst!
 
 - 👀 I’m currently learning everything 🤣
-- 🍀 I'm looking to collaborate on U
+- ♺ I'm looking  to collaborate on U
 - 📫 How to reach me -> @IlyaKhart
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/ilya-khart-711047176/)
