@@ -17,7 +17,7 @@
 ### Tools
 
 <img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />
-<img alt="R" width="30px" align="center" src="https://www.flaticon.com/free-icon/r_2103694" />
+<img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />
 
 <!---
 IlyaKhart/IlyaKhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
