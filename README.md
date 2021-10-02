@@ -15,7 +15,7 @@
 
 ### Tools
 
-[<img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />
+<img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />
 <img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />
 <img alt="SQL" width="30px" align="center" src="https://img-premium.flaticon.com/png/128/4248/premium/4248443.png?token=exp=1633191470~hmac=3c3a877e3dbb30ec44cd2e922fe3a751" />
 <img alt="Excell" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/732/732220.png" />
@@ -23,7 +23,7 @@
 <img alt="Google Analytics" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/732/732204.png" />
 <img alt="BigQuery" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/809/809460.png" />
 <img alt="Facebook Ads" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" />
-<img alt="WordPress" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />]
+<img alt="WordPress" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />
 
 <!---
 IlyaKhart/IlyaKhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
