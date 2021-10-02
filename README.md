@@ -5,8 +5,7 @@
 - 👀 I’m currently learning everything 🤣
 - 🍀 I'm looking to collaborate on U
 - 📫 How to reach me -> @IlyaKhart
-
-<img align="left" alt="linkedin.com/in/ilya-khart-711047176" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+[![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](linkedin.com/in/ilya-khart-711047176)
 <img align="left" alt="linkedin.com/in/ilya-khart-711047176" width="22px" src="https://cdn-icons-png.flaticon.com/128/1409/1409937.png" />
 
 <!---
