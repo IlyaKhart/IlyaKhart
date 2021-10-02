@@ -12,7 +12,8 @@
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />](https://twitter.com/IlyaKhart)
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409938.png" />](https://www.reddit.com/user/Clear_Structure_)
 
-< br />
+<br 
+/>
 
 
 <!---
