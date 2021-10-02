@@ -16,6 +16,8 @@
 />
 ### Tools
 
+[<img alt="Google Cloud" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />]
+
 <!---
 IlyaKhart/IlyaKhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
