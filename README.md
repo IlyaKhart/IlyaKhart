@@ -5,7 +5,7 @@
 - 👀 I’m currently learning everything 🤣
 - 🔭 I'm looking to collaborate with other
 - 🎯 2021 goal: 
-- 🍭 Fun fact: I'm big fun of jogging & music
+- 🍭 Fun fact: I'm a big fun of jogging & music
 
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/ilya-khart-711047176/)
@@ -24,6 +24,7 @@
 <img alt="BigQuery" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/809/809460.png" />
 <img alt="Facebook Ads" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" />
 <img alt="WordPress" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />
+<img alt="HTML5" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" />
 
 
 <!---
