@@ -13,7 +13,7 @@
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409938.png" />](https://www.reddit.com/user/Clear_Structure_)
 
 
-### Tools
+
 
 <img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />
 <img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />
@@ -25,7 +25,7 @@
 <img alt="Facebook Ads" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" />
 <img alt="WordPress" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/174/174881.png" />
 
-### PS
+
 <!---
 IlyaKhart/IlyaKhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
