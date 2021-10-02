@@ -9,8 +9,11 @@
 
 
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/ilya-khart-711047176/)
-[<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />](https://twitter.com/IlyaKhart)
-[<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409938.png" />](https://www.reddit.com/user/Clear_Structure_)
+[<img alt="twetter" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />](https://twitter.com/IlyaKhart)
+[<img alt="reddit" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409938.png" />](https://www.reddit.com/user/Clear_Structure_)
+[<img alt="WEB" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1786/1786115.png" />](https://www.ikhart.com/)
+
+
 
 
 ### Tools&Skills
