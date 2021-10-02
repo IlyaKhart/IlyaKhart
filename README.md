@@ -1,10 +1,9 @@
 ### 👋 Hi there, I'm @IlyaKhart
 
-## I'm Husbant, Father, Marketer and Analyst!
+### I'm Husbant, Father, Marketer and Analyst!
 
-- 👋 Hi, I’m @IlyaKhart
-- 👀 I’m interested in data analysis
-- 🍀 looking to collaborate on U
+- 👀 I’m currently learning everything 🤣
+- 🍀 I'm looking to collaborate on U
 - 📫 How to reach me -> @IlyaKhart
 
 <!---
