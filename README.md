@@ -15,8 +15,8 @@
 
 ### Tools
 
-<img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />
-<img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />
+[<img alt="Google Console" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/873/873117.png" />]
+[<img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />]
 <img alt="SQL" width="30px" align="center" src="https://img-premium.flaticon.com/png/128/4248/premium/4248443.png?token=exp=1633191470~hmac=3c3a877e3dbb30ec44cd2e922fe3a751" />
 <img alt="Excell" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/732/732220.png" />
 <img alt="Google Ads" width="30px" align="center" src="https://img-premium.flaticon.com/png/128/2875/premium/2875421.png?token=exp=1633192021~hmac=dda8cfb553892a1e74b68f769902431c" />
