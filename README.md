@@ -6,7 +6,8 @@
 - 🍀 I'm looking to collaborate on U
 - 📫 How to reach me -> @IlyaKhart
 
-[<img align="left" alt="linkedin.com/in/ilya-khart-711047176" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />] [linkedin]
+<img align="left" alt="linkedin.com/in/ilya-khart-711047176" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<img align="left" alt="linkedin.com/in/ilya-khart-711047176" width="22px" src="https://cdn-icons-png.flaticon.com/128/1409/1409937.png" />
 
 <!---
 IlyaKhart/IlyaKhart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
