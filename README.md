@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm @IlyaKhart
 
-### I'm Husbant, Father, Marketer and Analyst!
+### I'm Husbant, Father, Marketer & Analyst!
 
 - 👀 I’m currently learning everything 🤣
 - 🔭 I'm looking to collaborate with other
