@@ -22,7 +22,7 @@
 <img alt="R" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" />
 <img alt="SQL" width="30px" align="center" src="https://cdn-icons.flaticon.com/png/128/4669/premium/4669765.png?token=exp=1635153597~hmac=9e5130b51565d299867367394acd4f2c" />
 <img alt="Excell" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/732/732220.png" />
-<img alt="Google Ads" width="30px" align="center" src="https://img-premium.flaticon.com/png/128/2875/premium/2875421.png?token=exp=1633192021~hmac=dda8cfb553892a1e74b68f769902431c" />
+<img alt="Google Ads" width="30px" align="center" src="https://cdn-icons.flaticon.com/png/128/2875/premium/2875421.png?token=exp=1635153676~hmac=f148aeafbb849cd3ed48d7817040e0aa" />
 <img alt="Google Analytics" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/732/732204.png" />
 <img alt="BigQuery" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/809/809460.png" />
 <img alt="Facebook Ads" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/733/733547.png" />
