@@ -11,7 +11,7 @@
 [<img alt="lnkdin" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/ilya-khart-711047176/)
 [<img alt="twetter" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />](https://twitter.com/IlyaKhart)
 [<img alt="reddit" width="30px" align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409938.png" />](https://www.reddit.com/user/Clear_Structure_)
-[<img alt="WEB" width="30px" align="center" src="https://img-premium.flaticon.com/png/128/2202/premium/2202112.png?token=exp=1633194172~hmac=4a605cf00558c3b906ab7c2d7c209a05" />](https://www.ikhart.com/)
+[<img alt="WEB" width="30px" align="center" src="https://cdn-icons.flaticon.com/png/128/2202/premium/2202112.png?token=exp=1635153531~hmac=fc139f6152f5d5e61e292c80c24acd5c" />](https://www.ikhart.com/)
 
 
 
